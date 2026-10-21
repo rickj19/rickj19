@@ -19,6 +19,7 @@ I work through my own company, **SmartHelp LTDA**, so invoicing international cl
 | [Real Estate Process Tracker](https://github.com/rickj19/real-estate-process-tracker) | Step-by-step checklist for property deals, from first contact to registry office | [limiarimoveis.com.br](https://limiarimoveis.com.br) |
 | [Shoe Store POS](https://github.com/rickj19/shoe-store-pos) | Inventory with size/color grid, POS, finance and barcode labels | [hfcalcados.sbs](https://hfcalcados.sbs) |
 | [A Dois](https://github.com/rickj19/a-dois-couples-finance) | Shared household bills app for couples | [adoisapp.online](https://adoisapp.online) |
+| [Parish Registration System](https://github.com/rickj19/parish-registration-system) | Online registration and admin panel for a parish youth retreat (EJC) | [ejcsfc.org](https://ejcsfc.org) |
 | [SmartPrice](https://github.com/rickj19/smartprice) | My SaaS for pharmacies: online flyer editor and custom price signs | [sistemasmartprice.com.br](https://sistemasmartprice.com.br) |
 
 ### Contact
